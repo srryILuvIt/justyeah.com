@@ -1,0 +1,13 @@
+<html>
+  <head>
+    <title>very interesting website</title>
+     <style>
+      h1 {text-align: center;}
+      p {text-align: center;}
+     </style>
+  </head>
+  <body>
+    <h1>Idk, like, why did you visit this site?</h1>
+    <p><size="7">Okay, since u visited this site, u wanted too see somethink here, right? Well, srry, there <B>nothing.</B?</p>
+  </body>
+</html>
